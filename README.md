@@ -19,8 +19,9 @@ SCALE_SERP_API_KEY=add_your_api_key_here
 ## Results
 The results aren't perfect, as you'll need to filter out some common headings that aren't names of products.  For example, in the list of results in the below image, 'pros' and 'cons' are not likely what you're looking for, but 'tapfiliate', 'post affiliate pro', etc are valid, seemingly popular products.  
 
-![Sample of results](results-sample.png)
+![Sample of results](https://raw.githubusercontent.com/spencershepard/Simple_SERP_Aggregator/main/results-sample.PNG)
+
 Click the google link to do a web search for the respective result. The number in brackets is the number of occurrences in all scraped pages.
 
 ## How to find web design clients
-Shameless plug!  I've created the best way to find new clients for web design agencies.  Grape Leads is a powerful marketing tool that helps connect agency owners, marketers and freelancers with the clients who need their services the most.  Find businesses without websites and your next clients:  https://grapeleads.com  
+Shameless plug!  I've created the best way to find new clients for web design agencies.  Grape Leads is a powerful marketing tool that helps connect agency owners, marketers and freelancers with the clients who need their services the most.  Find businesses without websites and your next clients:  [How to Find Businesses without Websites](https://grapeleads.com)
